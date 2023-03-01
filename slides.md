@@ -1,392 +1,221 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
+---
+theme: apple-basic
+transition: fade-out
+---
 
-    <meta name="description" content="The Power of Why "/>
-    <meta name="author" content="roland@tritsch.org"/>
+---
+layout: intro-image-right
+image: /images/camelot.jpeg
+---
 
-    <meta name="apple-mobile-web-app-capable" content="yes"/>
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+# The Power of Why
 
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+## And the value of connecting the dots
 
-    <link rel="stylesheet" href="./reveal.js/css/reveal.css"/>
-    <!-- themes black/white/league/sky/beige/simple/serif/blood/night/moon/solarized -->
-    <link rel="stylesheet" href="./reveal.js/css/theme/simple.css" id="theme"/>
+<div class="absolute bottom-10">
+  <span class="font-700">
+    roland@tritsch.email - Feb 2023
+  </span>
+</div>
 
-    <!-- Code syntax highlighting -->
-    <link rel="stylesheet" href="./reveal.js/lib/css/zenburn.css"/>
+---
+layout: intro-image-right
+image: /images/camelot.jpeg
+---
 
-    <!-- Printing and PDF exports -->
-    <script>
-      var link = document.createElement( 'link' );
-      link.rel = 'stylesheet';
-      link.type = 'text/css';
-      link.href = window.location.search.match( /print-pdf/gi ) ? './reveal.js/css/print/pdf.css' : './reveal.js/css/print/paper.css';
-      document.getElementsByTagName( 'head' )[0].appendChild( link );
-    </script>
+# Engagement 102
 
-    <title>The Power of Why</title>
-  </head>
+## How to make people stay?!
 
-  <body>
-    <div class="reveal">
-      <div class="slides">
-	      <section>
-	        <section id="title">
-	          <h2>About the Power of Why</h2>
-	          <h3>And the value of connecting the dots</h3>
-	          <img src="./images/camelot.jpeg" width="30%"/>
-	          <p>
-	            <small>Created by <a href="mailto:roland@tritsch.org">roland@tritsch.org</a> / <a href="http://twitter.com/innolocity">@innolocity</a></small>
-	          </p>
-	          <aside class="notes">
-	          </aside>
-	        </section>
-	        <section>
-	          <h2>Engagement 102</h2>
-	          <h3>How to make people stay</h3>
-	          <img src="./images/camelot.jpeg" width="30%"/>
-	          <p>
-	            <small>Created by <a href="mailto:roland@tritsch.org">roland@tritsch.org</a> / <a href="http://twitter.com/innolocity">@innolocity</a></small>
-	          </p>
-	          <aside class="notes">
-	          </aside>
-	        </section>
-	      </section>
+<div class="absolute bottom-10">
+  <span class="font-700">
+    roland@tritsch.email - Feb 2023
+  </span>
+</div>
 
-	      <section>
- 	        <section>
-	          <h2>Weak reasons to work some place</h2>
-	          <ul>
-	            <li>I get more money than in other places (and I am waiting for the IPO to give me an extra bonus and will then cash out)</li>
-	            <li>Good work-life balance that allows me to stay healthy/workout ... be a mom/dad ...</li>
-	            <li>I am having fun ...</li>
-	            <li>I am learning something ...</li>
-	          </ul>
-	          <p align="center"><font size="10"><b>
-		              Weak reasons are weak, because they are not differentiated<br>
-		              and (easily) replicable, means you can find them (easily) somewhere else
-	          </b></font></p>
-            <aside class="notes">
-	          </aside>
-	        </section>
- 	        <section>
-	          <h2>Strong reasons to work some place</h2>
-	          <ul>
-	            <li>You believe in the purpose of the endeavour</li>
-	            <ul>
-		            <li>"I am saving the planet" ... "I am building a cathedral"</li>
-		            <li>... and this matters to me because ...</li>
-	            </ul>
-	            <li>You get an opportunity for personal growth by working for/with strong leaders</li>
-	            <ul>
-		            <li>You get to do something difficult that you have never done before ... and while you do it you get a chance to watch a blueprint in action</li>
-	            </ul>
-	          </ul>
-            <aside class="notes">
-	          </aside>
-	        </section>
-	        <section>
-	          <p align="center"><font size="20">
-		            You are either working for
-		            <b>something</b> or <b>someone</b>
-	          </font></p>
-	          <aside class="notes">
-	          </aside>
-	        </section>
-	        <section>
-	          <p align="center"><font size="20">
-		            You are either <strike>working</strike> <b><u>CARING</u></b> for
-		            <b>something</b> or <b>someone</b>
-	          </font></p>
-	          <aside class="notes">
-	          </aside>
-	        </section>
-	        <section>
-	          <blockquote cite="https://www.goodreads.com/author/quotes/2782.Viktor_E_Frankl">
-	            The greatest task for any person is to find meaning in his or her life. There are three possible sources for meaning: In work (doing something significant), in love (caring for another person), and in courage during difficult times. - Viktor Frankl</blockquote>
-	          <aside class="notes">
-	          </aside>
-	        </section>
-	        <section>
-	          <blockquote cite="https://www.goodreads.com/author/quotes/2782.Viktor_E_Frankl">
-	            He who has a Why to live for can bear any how.- Nietzsche
-	          </blockquote>
-	          <aside class="notes">
-	          </aside>
-	        </section>
-	      </section>
+---
 
-	      <section>
-	        <section>
-	          <h2>How to make people care?</h2>
-	          <p align="center"><font size="20"><b>
-		              The Power of asking Why?<br><br>
-		              Once a month ask:<br>
-		              Why do you do what you do?<br>
-		              Why does it matter?
-	          </b></font></p>
-	          <p>Possible answers:</p>
-	          <ul>
-	            <li>I don't know</li>
-	            <li>Because you told me to do it</li>
-	            <li>Because ...</li>
-	          </ul>
-	          <aside class="notes">
-	          </aside>
-	        </section>
-	        <section>
-	          <h2>Building cathedrals</h2>
-	          <img src="./images/cathedral.jpeg" width="50%"/>
-	          <aside class="notes">
-	          </aside>
-	        </section>
-	        <section>
-	          <h2>Connecting the dots</h2>
-	          <p>Be prepared ...</p>
-	          <ul>
-	            <li>... to connect the dots  ...</li>
-	            <li>... for the people that work with you and for you!!!</li>
-	          </ul>
-	          <p>Be prepared ...</p>
-	          <ul>
-	            <li>... to talk about the cathedral we are building and why what they do matters</li>
-	            <li>... to talk about why what you do matters and explain how what they do helps you</li>
-	          </ul>
-	          <aside class="notes">
-	          </aside>
-	        </section>
-	        <section>
-	          <ul>
-	            <li>Wash, rinse, repeat</li>
-	            <li>Every month</li>
-	            <li>Care</li>
-	          </ul>
-	          <aside class="notes">
-	          </aside>
-	        </section>
-	      </section>
+# Weak reasons to work some place
 
-	      <section>
-	        <section>
-	          <h2>More thoughts ...</h2>
-	          <aside class="notes">
-	          </aside>
-	        </section>
-	        <section>
-	          <h2>Care is key ...</h2>
-	          <p>Care comes in a couple of shapes and forms</p>
-	          <ul>
-	            <li>Care for ...</li>
-	            <ul>
-		            <li>... a group of people (the team that works for you or the team you are a part of)</li>
-		            <li>... a single person (the CEO, your boss, the <i>one</i> friend you have in the company)</li>
-	            </ul>
-	            <li>Care about ...</li>
-	            <ul>
-		            <li>... a big idea (and feeling fine to share the caring with a lot of people (the cathedral))</li>
-		            <li>... a smaller task (Building the roof. This tasks needs you. Nobody else cares about it like you do)</li>
-	            </ul>
-	          </ul>
-	          <p align="center"><font size="20">
-		            <b>YOU</b> need to <u>choose</u> what to care for/about!<br><br>
-		            Otherwise ... you will be unhappy!!!
-	          </font></p>
-	          <aside class="notes">
-	          </aside>
-	        </section>
- 	        <section>
-	          <p align="center"><font size="20">
-	              Care creates belonging ...<br><br>
-	              ... and everybody wants to belong to something or somebody!!!<br>
-	              <br>
-	              (And even the most independant of us want to belong ... don't fight it :))
-	          </font></p>
-	        </section>
- 	        <section>
-	          <p align="center"><font size="20">
-		            Autonomy,<br>
-		            Mastery and<br>
-		            Purpose<br>
-		            <br>
-		            - Dan Pink
-	          </font></p>
-	        </section>
- 	        <section>
-	          <p align="center"><font size="20">
-		            Talent meets<br>
-		            Passion meets<br>
-		            Purpose<br>
-		            <br>
-		            - Sir Ken Robinson, The Element
-	          </font></p>
-	        </section>
- 	        <section>
-	          <p align="center"><font size="20">
-		            Leadership comes down to believing so strongly in the future you want<br>
-		            that your enthusiasm, confidence, and drive in getting there infects those around you<br>
-		            and the reality of today transforms into that vision of tomorrow through shared work and sacrifice.<br>
-		            <br>
-		            - Max Levchin
-	          </font></p>
-	        </section>
- 	        <section>
-            <h2>TED talks ...</h2>
-            <ul>
-              <li>How great leaders inspire action (<a href="https://youtu.be/u4ZoJKF_VuA">here</a>)</li>
-	        </section>
-	      </section>
-	      <section>
-	        <section>
-	          <h2>Wanna build this with me?</h2>
-	          <img src="./images/cathedral.jpeg" width="30%"/>
-	          <p>
-	            <small>Created by <a href="mailto:roland@tritsch.org">roland@tritsch.org</a> / <a href="http://twitter.com/innolocity">@innolocity</a></small>
-	          </p>
-	          <aside class="notes">
-	          </aside>
-	        </section>
-	        <section>
-	          <h2>Wanna safe this with me?</h2>
-	          <img src="./images/planet.jpeg" width="30%"/>
-	          <p>
-	            <small>Created by <a href="mailto:roland@tritsch.org">roland@tritsch.org</a> / <a href="http://twitter.com/innolocity">@innolocity</a></small>
-	          </p>
-	          <aside class="notes">
-	          </aside>
-	        </section>
-	      </section>
-      </div>
-    </div>
+* I get more **money** than in other places (and I am waiting for the IPO
+  to give me an extra bonus and will then cash out)
+* Good **work-life balance** that allows me to stay healthy/workout ... be
+  a mom/dad ...
+* I am having **fun** ...
+* I am **learning** something ...</li>
 
-    <script src="./reveal.js/lib/js/head.min.js"></script>
-    <script src="./reveal.js/js/reveal.js"></script>
+---
+layout: statement
+---
 
-    <script>
-      // Full list of configuration options available at:
-      // https://github.com/hakimel/reveal.js#configuration
-      Reveal.initialize({
-      // Display controls in the bottom right corner
-      controls: true,
+# Weak reasons are weak, because they are not differentiated and (easily) replicable, means you can find them (easily) somewhere else!
 
-      // Display a presentation progress bar
-      progress: true,
+---
 
-      // Display the page number of the current slide
-      slideNumber: 'c/t',
+# Strong reasons to work some place
 
-      // Push each slide change to the browser history
-      history: false,
+* You believe in the purpose of the endeavour
+  * "I am saving the planet" ... "I am building a cathedral" ...
+  * ... and this matters to me because ...
+* You get an opportunity for personal growth by working for/with
+  strong leaders
+  * You get to do something difficult that you have never done before ...
+  * ... and while you do it you get a chance to watch a blueprint in
+    action
 
-      // Enable keyboard shortcuts for navigation
-      keyboard: true,
+---
+layout: statement
+---
 
-      // Enable the slide overview mode
-      overview: true,
+# You are either working for **something** or **someone**!
 
-      // Vertical centering of slides
-      center: true,
+---
+layout: statement
+---
 
-      // Enables touch navigation on devices with touch input
-      touch: true,
+# You are either *CARING* for **something** or **someone**!
 
-      // Loop the presentation
-      loop: false,
+---
+layout: quote
+---
 
-      // Change the presentation direction to be RTL
-      rtl: false,
+# "The greatest task for any person is to find meaning in his or her life. There are three possible sources for meaning: In work (doing something significant), in love (caring for another person), and in courage during difficult times."
+Viktor Frankl
 
-      // Turns fragments on and off globally
-      fragments: true,
+---
+layout: quote
+---
 
-      // Flags if the presentation is running in an embedded mode,
-      // i.e. contained within a limited portion of the screen
-      embedded: false,
+# "He who has a **Why** to live for can bear any **How**."
+Nietzsche
 
-      // Flags if we should show a help overlay when the questionmark
-      // key is pressed
-      help: true,
+---
 
-      // Number of milliseconds between automatically proceeding to the
-      // next slide, disabled when set to 0, this value can be overwritten
-      // by using a data-autoslide attribute on your slides
-      autoSlide: 0,
+# How to make people care?
 
-      // Stop auto-sliding after user input
-      autoSlideStoppable: true,
+The power of asking Why? Once a month ask ...
 
-      // Enable slide navigation via mouse wheel
-      mouseWheel: false,
+* Why do you do what you do?
+* Why does it matter?
+* Why are you here?
 
-      // Hides the address bar on mobile devices
-      hideAddressBar: true,
+Possible answers ...
 
-      // Opens links in an iframe preview overlay
-      previewLinks: false,
+* I don't know
+* Because you told me to do it
+* Because ... <insert good/magical answer here>
 
-      // Transition style
-      transition: 'convex', // default/none/fade/slide/convex/concave/zoom
+---
+layout: image-right
+image: /image/cathedral.jpeg
+---
 
-      // Transition speed
-      transitionSpeed: 'default', // default/fast/slow
+# Building cathedrals
 
-      // Transition style for full page slide backgrounds
-      backgroundTransition: 'default', // none/fade/slide/convex/concave/zoom
+## Connecting the dots 
 
-      // Number of slides away from the current that are visible
-      viewDistance: 3,
+Be prepared to ...
 
-      // Parallax background image
-      parallaxBackgroundImage: '', // e.g. "'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg'"
+* ... connect the dots for the people that work with you and for you!!!
+* ... to talk about the cathedral we are building and why what they do matters!!!
+* ... to talk about what you do why what you do matters and explain how what they do helps you!!!
 
-      // Parallax background size
-      parallaxBackgroundSize: '', // CSS syntax, e.g. "2100px 900px"
+---
+layout: statement
+---
 
-      // Amount to move parallax background (horizontal and vertical) on slide change
-      // Number, e.g. 100
-      parallaxBackgroundHorizontal: '',
-      parallaxBackgroundVertical: '',
+# Wash, rinse, repeat
 
-      // The "normal" size of the presentation, aspect ratio will be preserved
-      // when the presentation is scaled to fit different resolutions. Can be
-      // specified using percentage units.
-      width: '70%',
-      //height: '50%',
+## Every month
 
-      // Factor of the display size that should remain empty around the content
-      margin: 0.2,
+---
+layout: section
+---
 
-      // Bounds for smallest/largest possible scale to apply to content
-      minScale: 0.2,
-      maxScale: 2.0,
+# More thoughts
 
-      //multiplex: {
-      // Example values. To generate your own, see the socket.io server instructions.
-      //secret: 'null', // Obtained from the socket.io server. Gives this (the master) control of the presentation
-      //secret: '14358171410682014567', // Obtained from the socket.io server. Gives this (the master) control of the presentation
-      //id: '4f27fa22c1d2b0ff', // Obtained from socket.io server
-      //url: 'revealjs.jit.su:80' // Location of socket.io server
-      //},
+---
 
-      // Optional reveal.js plugins
-      dependencies: [
-      //{ src: '//cdnjs.cloudflare.com/ajax/libs/socket.io/0.9.16/socket.io.min.js', async: true },
-      //{ src: './reveal.js/plugin/multiplex/master.js', async: true },
-      //{ src: './reveal.js/plugin/multiplex/client.js', async: true },
+# Care is key ...
 
-      // and if you want speaker notes
-      //{ src: './reveal.js/plugin/notes-server/client.js', async: true }
+Care for ...
 
-      { src: './reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
-      { src: './reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-      { src: './reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-      { src: './reveal.js/plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
-      { src: './reveal.js/plugin/zoom-js/zoom.js', async: true },
-      { src: './reveal.js/plugin/notes/notes.js', async: true }
-      ]
-      });
-    </script>
-  </body>
-</html>
+* ... a group of people (the team that works for you or the team you are a part of)
+* ... a single person (the CEO, your boss, the **one** friend you have in the company)
+
+Care about ...
+
+* ... a big idea (and feeling fine to share the caring with a lot of people (the cathedral))
+* ... a smaller task (Building the roof. This tasks needs you. Nobody else cares about it like you do)
+
+---
+layout: statement
+---
+
+# **YOU** need to _choose_ what to care for/about!
+
+## Otherwise ... you will be unhappy!!!
+
+---
+layout: statement
+---
+
+# Care creates a sense of belonging! 
+
+## And everybody wants to belong to something or somebody!!!
+## (And even the most independant of us want to belong ... don't fight it :))
+
+---
+layout: quote
+---
+
+# "Autonomy, Mastery and Purpose"
+Dan Pink
+
+---
+layout: quote
+---
+
+# "Talent meets Passion meets Purpose"
+Sir Ken Robinson, The Element
+
+---
+layout: quote
+---
+
+# "Leadership comes down to believing so strongly in the future you want that your enthusiasm, confidence, and drive in getting there infects those around you and the reality of today transforms into that vision of tomorrow through shared work and sacrifice."
+Max Levchin
+
+---
+layout: quote
+---
+
+# "Leadership is the ability to inspire others to deliver on shared objectives."
+Jeff Weiner, Linked-In
+
+---
+layout: intro-image-right
+image: /images/cathedral.jpeg
+---
+
+# Want to build this with me?
+
+<div class="absolute bottom-10">
+  <span class="font-700">
+    roland@tritsch.email - Feb 2023
+  </span>
+</div>
+
+
+---
+layout: intro-image-right
+image: /images/planet.jpeg
+---
+
+# Want to safe this with me?
+
+<div class="absolute bottom-10">
+  <span class="font-700">
+    roland@tritsch.email - Feb 2023
+  </span>
+</div>
