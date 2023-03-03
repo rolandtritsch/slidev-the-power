@@ -12,7 +12,7 @@ image: /images/camelot.jpeg
 
 ## And the value of connecting the dots
 
-<div class="absolute bottom-10">
+<div class="absolute bottom-0">
   <span class="font-700">
     roland@tritsch.email - Feb 2023
   </span>
@@ -27,7 +27,7 @@ image: /images/camelot.jpeg
 
 ## How to make people stay?!
 
-<div class="absolute bottom-10">
+<div class="absolute bottom-0">
   <span class="font-700">
     roland@tritsch.email - Feb 2023
   </span>
@@ -35,24 +35,24 @@ image: /images/camelot.jpeg
 
 ---
 
-# Weak reasons to work some place
+## Weak reasons to work some place
 
 * I get more **money** than in other places (and I am waiting for the IPO
   to give me an extra bonus and will then cash out)
 * Good **work-life balance** that allows me to stay healthy/workout ... be
   a mom/dad ...
 * I am having **fun** ...
-* I am **learning** something ...</li>
+* I am **learning** something ...
 
 ---
 layout: statement
 ---
 
-# Weak reasons are weak, because they are not differentiated and (easily) replicable, means you can find them (easily) somewhere else!
+## Weak reasons are weak, because they are not differentiated and (easily) replicable, means you can find them (easily) somewhere else!
 
 ---
 
-# Strong reasons to work some place
+## Strong reasons to work some place
 
 * You believe in the purpose of the endeavour
   * "I am saving the planet" ... "I am building a cathedral" ...
@@ -67,31 +67,31 @@ layout: statement
 layout: statement
 ---
 
-# You are either working for **something** or **someone**!
+# You are either working for *something* or *someone*!
 
 ---
 layout: statement
 ---
 
-# You are either *CARING* for **something** or **someone**!
+# You are either CARING for *something* or *someone*!
 
 ---
 layout: quote
 ---
 
-# "The greatest task for any person is to find meaning in his or her life. There are three possible sources for meaning: In work (doing something significant), in love (caring for another person), and in courage during difficult times."
+## "The greatest task for any person is to find meaning in his or her life. There are three possible sources for meaning: In work (doing something significant), in love (caring for another person), and in courage during difficult times."
 Viktor Frankl
 
 ---
 layout: quote
 ---
 
-# "He who has a **Why** to live for can bear any **How**."
+# "He who has a *Why* to live for can bear any *How*."
 Nietzsche
 
 ---
 
-# How to make people care?
+## How to make people care?
 
 The power of asking Why? Once a month ask ...
 
@@ -107,7 +107,7 @@ Possible answers ...
 
 ---
 layout: image-right
-image: /image/cathedral.jpeg
+image: /images/cathedral.jpeg
 ---
 
 # Building cathedrals
@@ -129,6 +129,33 @@ layout: statement
 ## Every month
 
 ---
+layout: intro-image-right
+image: /images/cathedral.jpeg
+---
+
+# Want to build this<br>with me?
+
+<div class="absolute bottom-0">
+  <span class="font-700">
+    roland@tritsch.email - Feb 2023
+  </span>
+</div>
+
+
+---
+layout: intro-image-right
+image: /images/planet.jpeg
+---
+
+# Want to safe this<br>with me?
+
+<div class="absolute bottom-0">
+  <span class="font-700">
+    roland@tritsch.email - Feb 2023
+  </span>
+</div>
+
+---
 layout: section
 ---
 
@@ -136,7 +163,7 @@ layout: section
 
 ---
 
-# Care is key ...
+## Care is key ...
 
 Care for ...
 
@@ -152,17 +179,16 @@ Care about ...
 layout: statement
 ---
 
-# **YOU** need to _choose_ what to care for/about!
+# YOU need to *choose*<br>what to care for/about!
 
-## Otherwise ... you will be unhappy!!!
+## <br>Otherwise ... you will be unhappy!!!
 
 ---
 layout: statement
 ---
 
 # Care creates a sense of belonging! 
-
-## And everybody wants to belong to something or somebody!!!
+## <br>And everybody wants to belong to something or somebody!!!
 ## (And even the most independant of us want to belong ... don't fight it :))
 
 ---
@@ -192,30 +218,3 @@ layout: quote
 
 # "Leadership is the ability to inspire others to deliver on shared objectives."
 Jeff Weiner, Linked-In
-
----
-layout: intro-image-right
-image: /images/cathedral.jpeg
----
-
-# Want to build this with me?
-
-<div class="absolute bottom-10">
-  <span class="font-700">
-    roland@tritsch.email - Feb 2023
-  </span>
-</div>
-
-
----
-layout: intro-image-right
-image: /images/planet.jpeg
----
-
-# Want to safe this with me?
-
-<div class="absolute bottom-10">
-  <span class="font-700">
-    roland@tritsch.email - Feb 2023
-  </span>
-</div>
